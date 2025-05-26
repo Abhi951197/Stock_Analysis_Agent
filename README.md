@@ -1,4 +1,13 @@
+
 # Stock Analysis Flask App Setup
+### Output
+![Screenshot 2025-05-26 141739](https://github.com/user-attachments/assets/ee24a3f0-df09-4a84-adb8-ed5b24f34a8f)
+![Screenshot 2025-05-26 141748](https://github.com/user-attachments/assets/6918b6db-eb21-4902-91d0-7327a6591e42)
+![Screenshot 2025-05-26 153526](https://github.com/user-attachments/assets/a040c16c-eb60-4583-9478-be7aea8cee26)
+![Uploading Screenshot 2025-05-26 153533.png…]()
+
+
+
 
 ## Project Structure
 Create the following folder structure:
