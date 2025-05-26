@@ -5,7 +5,7 @@ Create the following folder structure:
 
 ```
 stock_analysis_app/
-├── app.py                 # Main Flask application
+├── agent.py                 # Main Flask application
 ├── templates/
 │   └── stock.html        # HTML template
 ├── requirements.txt      # Python dependencies
@@ -49,7 +49,7 @@ mkdir templates
 
 ### 6. Run the application
 ```bash
-python app.py
+python agent.py
 ```
 
 The app will be available at: http://localhost:5000
